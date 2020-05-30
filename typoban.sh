@@ -8,7 +8,7 @@ cyan='\e[0;36m'
 lightgreen='\e[1;32m'
 red='\e[1;31m'
 yellow='\e[1;33m'
-echo -e $lightgreen "\e[1m                Security Help For Ethical Hackers... "
+echo
 echo " "
 echo "Tg: @Termuxtop"
 echo "Dev: @overlamer2130 && @nkitas"
